@@ -1,4 +1,4 @@
-Improved Text
+Improved Sentiment Analysis using LSTMs
 ==============================
 
 ## How to run the code
