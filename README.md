@@ -9,4 +9,4 @@ Improved Sentiment Analysis using LSTMs
 
 The above commands will generate confusion matrices inside the `reports/figures` folder and save models inside `saved_models` folder
 
-Please refer to the [report](reports/Report.pdf) for more details about the classification network.
+Please refer to the [report](reports/FinalReport.pdf) for more details about the classification network.
